@@ -6,7 +6,7 @@ import streamlit as st
 sns.set(style='dark')
 
 # Load Main Data 
-bike_df = pd.read_csv("https://github.com/to2surya/bike_rides/blob/main/dashboard/main_data.csv")
+bike_df = pd.read_csv("https://raw.githubusercontent.com/to2surya/bike_rides/main/dashboard/main_data.csv")
 
 # Reindex date column
 datetime_columns = ["date"]
