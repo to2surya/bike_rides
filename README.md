@@ -17,5 +17,5 @@ streamlit run dashboard.py
 ## Link Streamlit Cloud
 
 ```
-https://bikerides-cmkurq2shvtnq9cajhpsyq.streamlit.app
+https://bikerides-5r8uvikjhxeuxgujdpraz9.streamlit.app/
 ```
